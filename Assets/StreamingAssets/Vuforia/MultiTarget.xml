@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="AquaRecall.Top" size="0.070000 0.179949"/>
+        <ImageTarget name="AquaRecall.Left" size="0.180000 0.150030"/>
+        <ImageTarget name="AquaRecall.Bottom" size="0.070000 0.179949"/>
+        <ImageTarget name="AquaRecall.Back" size="0.070000 0.149988"/>
+        <ImageTarget name="AquaRecall.Right" size="0.180000 0.150030"/>
+        <ImageTarget name="AquaRecall.Front" size="0.070000 0.149988"/>
+        <MultiTarget name="AquaRecall">
+            <Part name="AquaRecall.Left" translation="-0.03500000014901161 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="AquaRecall.Right" translation="0.03500000014901161 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="AquaRecall.Front" translation="0 0 0.09000000357627869" rotation="AD: 1 0 0 0"/>
+            <Part name="AquaRecall.Back" translation="0 0 -0.09000000357627869" rotation="AD: 0 1 0 180"/>
+            <Part name="AquaRecall.Top" translation="0 0.07500000298023224 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="AquaRecall.Bottom" translation="0 -0.07500000298023224 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

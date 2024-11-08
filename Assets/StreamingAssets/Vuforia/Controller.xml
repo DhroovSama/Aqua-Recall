@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="xazd.Right" size="0.180000 0.150030"/>
+        <ImageTarget name="xazd.Bottom" size="0.070000 0.179949"/>
+        <ImageTarget name="xazd.Top" size="0.070000 0.179949"/>
+        <ImageTarget name="xazd.Left" size="0.180000 0.150030"/>
+        <ImageTarget name="xazd.Back" size="0.070000 0.149988"/>
+        <ImageTarget name="xazd.Front" size="0.070000 0.149988"/>
+        <MultiTarget name="xazd">
+            <Part name="xazd.Left" translation="-0.03500000014901161 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="xazd.Right" translation="0.03500000014901161 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="xazd.Front" translation="0 0 0.09000000357627869" rotation="AD: 1 0 0 0"/>
+            <Part name="xazd.Back" translation="0 0 -0.09000000357627869" rotation="AD: 0 1 0 180"/>
+            <Part name="xazd.Top" translation="0 0.07500000298023224 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="xazd.Bottom" translation="0 -0.07500000298023224 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
